@@ -6,7 +6,6 @@
 
 3) write down these two commands without ">>"
    >> sudo apt-get update
-   >> sudo apt-get install gcc-avr avr-libc avrdude
    >> sudo apt-get install avrdude
 
 4) connect the programmer with the microcontroller chip (see the schematic) then write the following command:
