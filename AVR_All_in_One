@@ -10,6 +10,5 @@ avr-objcopy -j .text -j .data -O ihex $filename.bin $filename.hex
 rm $filename.bin
 
 echo "Uploading Hex File ...." 
-# avrdude -p $chip -c usbasp -U flash:w:$filename.hex:i -F -P usb
-
+avrdude -p $chip -c usbasp -U flash:w:$filename.hex:i -F -P usb
  
