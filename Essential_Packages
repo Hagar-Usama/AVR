@@ -1,0 +1,4 @@
+#!/bin/bash
+clear
+echo "Installing essential packages ...." 
+sudo apt-get install gcc-avr avr-libc avrdude

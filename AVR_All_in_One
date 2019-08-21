@@ -1,0 +1,15 @@
+#!/bin/bash
+clear
+echo "Compiling c file ...." 
+echo "Please enter chip used (i.e atmega16)"
+read chip
+echo "Please enter c file name (i.e main)"
+read filename
+avr-gcc -Wall -g -Os -mmcu=$chip -o $filename.bin $filename.c
+avr-objcopy -j .text -j .data -O ihex $filename.bin $filename.hex
+rm $filename.bin
+
+echo "Uploading Hex File ...." 
+# avrdude -p $chip -c usbasp -U flash:w:$filename.hex:i -F -P usb
+
+ 

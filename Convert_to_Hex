@@ -1,0 +1,8 @@
+#!/bin/bash
+clear
+echo "Compiling c file ...." 
+avr-gcc -Wall -g -Os -mmcu=atmega32 -o main.bin main.c
+avr-objcopy -j .text -j .data -O ihex main.bin main.hex
+rm main.bin
+
+ 

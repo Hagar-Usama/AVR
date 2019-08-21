@@ -1,0 +1,5 @@
+#!/bin/bash
+clear
+echo "Checking Connection ...."
+avrdude -F -B 1500kHz -c usbasp -p atmega32 -U lock:r:lock.hex:h
+#needs directory of usbasp file 
