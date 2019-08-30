@@ -6,8 +6,8 @@ int main(void)
 
 uint8_t counter;
 DDRA = 0xff;
-int i;
-for( i=0; i<=255; i++){
+
+for(int i=0; i<=255; i++){
 
     PORTA = i;
     _delay_ms(100);

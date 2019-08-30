@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
 echo "Uploading Hex File ...." 
-avrdude -p atmega16 -c usbasp -U flash:w:main.hex:i -F -P usb
+avrdude -p atmega32 -c usbasp -U flash:w:main.hex:i -F -P usb
 
  
