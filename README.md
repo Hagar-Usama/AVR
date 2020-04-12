@@ -21,19 +21,19 @@ Linux people, let's code
 * [License][17]
 
 
-[10]: https://github.com/Hagar-Usama/AVR#introduction
+[10]: https://github.com/Hagar-Usama/AVR_Linux#introduction
 
-[11]: https://github.com/Hagar-Usama/AVR#technologies
+[11]: https://github.com/Hagar-Usama/AVR_Linux#technologies
 
-[12]: https://github.com/Hagar-Usama/AVR#launch
+[12]: https://github.com/Hagar-Usama/AVR_Linux#launch
 
-[13]: https://github.com/Hagar-Usama/AVR#screenshots
+[13]: https://github.com/Hagar-Usama/AVR_Linux#screenshots
 
-[15]: https://github.com/Hagar-Usama/AVR#to-do-list
+[15]: https://github.com/Hagar-Usama/AVR_Linux#to-do-list
 
-[16]: https://github.com/Hagar-Usama/AVR#bugs
+[16]: https://github.com/Hagar-Usama/AVR_Linux#bugs
 
-[17]: https://github.com/Hagar-Usama/AVR#license
+[17]: https://github.com/Hagar-Usama/AVR_Linux#license
 
 ---
 
