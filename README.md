@@ -39,7 +39,7 @@ Linux people, let's code
 ---
 
 ## Introduction
-Linux people, I have made this guide for myself, my Linuxian teammates 💖.
+Linux people, I have made this guide for myself, my Linuxian teammates 💚.
 I believe what can be done on Windows, can be done on Linux 🐧.
 
 ---
@@ -94,12 +94,18 @@ $ chmod 755 Upload_Hex
 $ ./Upload_Hex
 ```
 
-Long boring steps 😒, ha?
+Boring long steps 😒, ha?
 >  AVR_All_in_One script file, compiles and uploads the code [ interactive bash ]
 ``` bash
 $ chmod 755 AVR_All_in_One
 $ ./AVR_All_in_One
 ```
+
+![seq1][36]
+
+![seq2][37]
+
+![seq2][32]
 
 Still Confused? 🤔
 >check  👉 [this video][31]. It is creepy, but may help.
@@ -110,6 +116,12 @@ Wonder why 755? 🤔
 
  [30]: https://technicalbud.com/chmod-file-permissions-775/
  [31]: https://www.youtube.com/watch?v=namySz6WsB0&feature=youtu.be
+ [32]: https://github.com/Hagar-Usama/AVR/blob/master/screenshot/blink2.gif
+ [33]:https://github.com/Hagar-Usama/AVR/blob/master/screenshot/Screenshot_%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A8%D9%A2%D9%A1_%D9%A2%D9%A0%D9%A1%D9%A8%D9%A3%D9%A3.png
+ [34]:https://github.com/Hagar-Usama/AVR/blob/master/screenshot/Screenshot_%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A8%D9%A2%D9%A1_%D9%A2%D9%A0%D9%A1%D9%A8%D9%A5%D9%A7.png
+ [35]: https://github.com/Hagar-Usama/AVR/blob/master/screenshot/Screenshot_%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A8%D9%A2%D9%A1_%D9%A2%D9%A0%D9%A2%D9%A1%D9%A3%D9%A7.png
+ [36]: https://github.com/Hagar-Usama/AVR/blob/master/screenshot/Screenshot_%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A8%D9%A2%D9%A1_%D9%A2%D9%A0%D9%A2%D9%A1%D9%A3%D9%A7.png
+ [37]:https://github.com/Hagar-Usama/AVR/blob/master/screenshot/Screenshot_%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A8%D9%A2%D9%A1_%D9%A2%D9%A0%D9%A2%D9%A1%D9%A5%D9%A0.png
 ---
 
 
