@@ -16,7 +16,6 @@ Linux people, let's code
 * [Introduction][10]
 * [Technologies][11]
 * [Launch][12]
-* [Screenshots][13]
 * [To-do List][15]
 * [Bugs][16]
 * [License][17]
@@ -122,12 +121,10 @@ Wonder why 755? 🤔
  [35]: https://github.com/Hagar-Usama/AVR/blob/master/screenshot/Screenshot_%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A8%D9%A2%D9%A1_%D9%A2%D9%A0%D9%A2%D9%A1%D9%A3%D9%A7.png
  [36]: https://github.com/Hagar-Usama/AVR/blob/master/screenshot/Screenshot_%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A8%D9%A2%D9%A1_%D9%A2%D9%A0%D9%A2%D9%A1%D9%A3%D9%A7.png
  [37]:https://github.com/Hagar-Usama/AVR/blob/master/screenshot/Screenshot_%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A8%D9%A2%D9%A1_%D9%A2%D9%A0%D9%A2%D9%A1%D9%A5%D9%A0.png
+
+
 ---
 
-
-## Screenshots
-
----
 
 
 ## To-do List
